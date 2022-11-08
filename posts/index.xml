@@ -6,7 +6,24 @@
         <description>Recent content in Posts on itsSimonIT Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 05 Nov 2022 12:43:08 +0000</lastBuildDate><atom:link href="https://itsSimonIT.github.io/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 05 Nov 2022 13:52:21 +0000</lastBuildDate><atom:link href="https://itsSimonIT.github.io/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Post2</title>
+        <link>https://itsSimonIT.github.io/posts/post2/</link>
+        <pubDate>Sat, 05 Nov 2022 13:52:21 +0000</pubDate>
+        
+        <guid>https://itsSimonIT.github.io/posts/post2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Myposts2</title>
+        <link>https://itsSimonIT.github.io/posts/myposts2/</link>
+        <pubDate>Sat, 05 Nov 2022 13:24:48 +0000</pubDate>
+        
+        <guid>https://itsSimonIT.github.io/posts/myposts2/</guid>
+        <description>&lt;p&gt;New content uploaded here&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>This is a title test</title>
         <link>https://itsSimonIT.github.io/posts/mypost/</link>
         <pubDate>Sat, 05 Nov 2022 12:43:08 +0000</pubDate>
